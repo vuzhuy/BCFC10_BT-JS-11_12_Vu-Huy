@@ -1,5 +1,4 @@
 var service = new NguoiDungServices();
-var validation = new Validation();
 
 function getEle(id) {
     return document.getElementById(id);
